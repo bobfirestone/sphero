@@ -6,3 +6,5 @@ You need to have the artoo-sphero gem installed
 ````
     gem install artoo-sphero
 ````
+
+[artoo-sphero documentation](http://artoo.io/documentation/drivers/sphero/)
